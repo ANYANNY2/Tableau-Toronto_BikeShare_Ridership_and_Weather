@@ -1,1 +1,2 @@
-
+# ignore the *.csv file
+*.csv
